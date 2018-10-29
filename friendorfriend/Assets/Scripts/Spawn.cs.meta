@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1ad55545b8adf443b81abf425aa5e36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Candy: {fileID: 1335135730064960, guid: 7e88ec14d8790ac4491aafaeeaa3919d, type: 2}
+  - Chocolate: {fileID: 1428299369168742, guid: 90c5a8b8a0984604d8e306228c9ce365,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
